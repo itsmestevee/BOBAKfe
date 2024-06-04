@@ -1,0 +1,36 @@
+{
+    "result":[
+        {
+            "drinkName": "Lavender Oatmilk Latte",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/LavenderOatmilkLatte.jpg",
+            "price": 2.99
+        },
+        {
+            "drinkName": "Iced White Chocolate Mocha",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedWhiteChocolateMocha.jpg",
+            "price": 2.49
+        },
+        {
+            "drinkName": "Iced Lavender Oatmilk Latte",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/IcedLavenderOatmilkLatte.jpg",
+            "price": 2.49
+        },
+        {
+            "drinkName": "Iced Caffè Americano",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedCaffeAmericano.jpg",
+            "price": 2.49
+        },
+        {
+            "drinkName": "Iced Shaken Espresso",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/IcedHazelnutOatmilkShakenEspresso.jpg",
+            "price": 2.49 
+        },
+        {
+            "drinkName": "Iced Caffè Latte",
+            "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedCaffeLatte.jpg",
+            "price": 2.49 
+        }
+
+    ]
+    
+}
